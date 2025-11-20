@@ -17,9 +17,8 @@ Automatically produces a receipt after successful payment.
 7. Customer Feedback
 Users can submit experience feedback for service improvement.
 
-📌 Technologies Used
+📌 Programming Language Used
 C++
-Standard libraries: <iostream>, <iomanip>, <string>, <limits>
 
 🚀 How to Run
 Compile the program:
